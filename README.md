@@ -74,7 +74,7 @@ Se evalúan distintos enfoques para la detección de anomalías en rodamientos.
 
 #### Enfoques semi-supervisados
 
-- **Autoencoder convolucional 1D (1D-CNN)** entrenado únicamente con datos en estado saludable
+- **Autoencoder convolucional 1D (1D-CAE)** entrenado únicamente con datos en estado saludable
 - **One-Class Support Vector Machine (OC-SVM)** basado en características espectrales
 
 #### Enfoques no supervisados
